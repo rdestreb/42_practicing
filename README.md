@@ -1,4 +1,4 @@
 42
 ==
 
-42 school-work
+pre-42 practice (libft, ...)
