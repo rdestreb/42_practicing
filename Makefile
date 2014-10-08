@@ -20,6 +20,7 @@ SRCSFILES = 	ft_putchar.c \
 				ft_strclr.c \
 				ft_striter.c \
 				ft_strequ.c \
+				ft_strnequ.c \
 
 OBJS = $(SRCS:.c=.o)
 
