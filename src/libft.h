@@ -17,6 +17,8 @@ void	*ft_memalloc(size_t size);
 char	*ft_itoa(int n);
 
 size_t	ft_strlen(char const *s);
+char	*ft_strdup(const char *s);
+
 void	ft_strclr(char *s);
 void	ft_striter(char *s, void (*f)(char *));
 
