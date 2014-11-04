@@ -16,6 +16,9 @@ SRCSFILES = 	ft_putchar.c \
 				ft_putnbr.c \
 				ft_putnbr_fd.c \
 				ft_strlen.c \
+				ft_strdup.c \
+				ft_strcpy.c \
+				ft_strncpy.c \
 				ft_memalloc.c \
 				ft_strclr.c \
 				ft_striter.c \

@@ -18,6 +18,8 @@ char	*ft_itoa(int n);
 
 size_t	ft_strlen(char const *s);
 char	*ft_strdup(const char *s);
+char	*ft_strcpy(char *dest, const char *src);
+char	*ft_strncpy(char *dest, const char *src, size_t n);
 
 void	ft_strclr(char *s);
 void	ft_striter(char *s, void (*f)(char *));
